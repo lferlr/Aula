@@ -1,0 +1,13 @@
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\bin\Debug\netcoreapp3.1\ComparacaoDoisNumeros.exe
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\bin\Debug\netcoreapp3.1\ComparacaoDoisNumeros.deps.json
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\bin\Debug\netcoreapp3.1\ComparacaoDoisNumeros.runtimeconfig.json
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\bin\Debug\netcoreapp3.1\ComparacaoDoisNumeros.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\bin\Debug\netcoreapp3.1\ComparacaoDoisNumeros.dll
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\bin\Debug\netcoreapp3.1\ComparacaoDoisNumeros.pdb
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.dll
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.pdb
+C:\Users\rodri\source\repos\ComparacaoDoisNumeros\ComparacaoDoisNumeros\obj\Debug\netcoreapp3.1\ComparacaoDoisNumeros.genruntimeconfig.cache

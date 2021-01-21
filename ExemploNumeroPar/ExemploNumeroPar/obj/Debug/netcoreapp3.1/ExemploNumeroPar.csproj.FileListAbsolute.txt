@@ -1,0 +1,12 @@
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\bin\Debug\netcoreapp3.1\ExemploNumeroPar.exe
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\bin\Debug\netcoreapp3.1\ExemploNumeroPar.deps.json
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\bin\Debug\netcoreapp3.1\ExemploNumeroPar.runtimeconfig.json
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\bin\Debug\netcoreapp3.1\ExemploNumeroPar.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\bin\Debug\netcoreapp3.1\ExemploNumeroPar.dll
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\bin\Debug\netcoreapp3.1\ExemploNumeroPar.pdb
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\obj\Debug\netcoreapp3.1\ExemploNumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\obj\Debug\netcoreapp3.1\ExemploNumeroPar.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\obj\Debug\netcoreapp3.1\ExemploNumeroPar.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\obj\Debug\netcoreapp3.1\ExemploNumeroPar.dll
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\obj\Debug\netcoreapp3.1\ExemploNumeroPar.pdb
+C:\Users\rodri\source\repos\ExemploNumeroPar\ExemploNumeroPar\obj\Debug\netcoreapp3.1\ExemploNumeroPar.genruntimeconfig.cache

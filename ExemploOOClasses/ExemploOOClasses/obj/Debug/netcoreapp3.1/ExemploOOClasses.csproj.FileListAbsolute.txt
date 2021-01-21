@@ -1,0 +1,13 @@
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\bin\Debug\netcoreapp3.1\ExemploOOClasses.exe
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\bin\Debug\netcoreapp3.1\ExemploOOClasses.deps.json
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\bin\Debug\netcoreapp3.1\ExemploOOClasses.runtimeconfig.json
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\bin\Debug\netcoreapp3.1\ExemploOOClasses.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\bin\Debug\netcoreapp3.1\ExemploOOClasses.dll
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\bin\Debug\netcoreapp3.1\ExemploOOClasses.pdb
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.dll
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.pdb
+C:\Users\rodri\source\repos\ExemploOOClasses\ExemploOOClasses\obj\Debug\netcoreapp3.1\ExemploOOClasses.genruntimeconfig.cache

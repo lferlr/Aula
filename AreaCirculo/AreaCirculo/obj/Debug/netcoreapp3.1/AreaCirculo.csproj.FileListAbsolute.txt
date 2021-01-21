@@ -1,0 +1,12 @@
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfo.cs
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.exe
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.deps.json
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.json
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\rodri\source\repos\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.genruntimeconfig.cache

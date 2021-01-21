@@ -1,0 +1,13 @@
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\bin\Debug\netcoreapp3.1\ExemploArrayList.exe
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\bin\Debug\netcoreapp3.1\ExemploArrayList.deps.json
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\bin\Debug\netcoreapp3.1\ExemploArrayList.runtimeconfig.json
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\bin\Debug\netcoreapp3.1\ExemploArrayList.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\bin\Debug\netcoreapp3.1\ExemploArrayList.dll
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\bin\Debug\netcoreapp3.1\ExemploArrayList.pdb
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.dll
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.pdb
+C:\Users\rodri\source\repos\ExemploArrayList\ExemploArrayList\obj\Debug\netcoreapp3.1\ExemploArrayList.genruntimeconfig.cache
